@@ -7,17 +7,35 @@
       "skillPath": "plugins/springboot-architecture/skills/code-reviewer/SKILL.md",
       "computedHash": "b8c1b7abc640297776c1c1631cd29fb95c867f908815c7bb2fcdbf90629a9209"
     },
+    "debug:spring-boot": {
+      "source": "snakeo/claude-debug-and-refactor-skills-plugin",
+      "sourceType": "github",
+      "skillPath": "plugins/debug-and-refactor/skills/debug-spring-boot/SKILL.md",
+      "computedHash": "fc8ea13be6952572745a99220cbf618e8b6485c1b4fd290f103a4fd399000468"
+    },
     "design-system-patterns": {
       "source": "wshobson/agents",
       "sourceType": "github",
       "skillPath": "plugins/ui-design/skills/design-system-patterns/SKILL.md",
       "computedHash": "b6ba14bf8809ee027a3c4c9e88bdc71626eb7f68604b65dce000519d8e4ad458"
     },
+    "developer-troubleshooting-docs": {
+      "source": "samber/developer-relations-skills",
+      "sourceType": "github",
+      "skillPath": "skills/developer-troubleshooting-docs/SKILL.md",
+      "computedHash": "a51134b7f5e815bda237c15f77fbbe82d69125944868e6c523cf2c586fc29d39"
+    },
     "find-skills": {
       "source": "vercel-labs/skills",
       "sourceType": "github",
       "skillPath": "skills/find-skills/SKILL.md",
       "computedHash": "b146008599c31057cef1c145774cea5d5afb30e8f43fa802e47a4b461419aaaf"
+    },
+    "java-architect": {
+      "source": "jeffallan/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/java-architect/SKILL.md",
+      "computedHash": "7f202287a1ad819b41a9235b8bb570eed217a431e4e60d7196fd9330d52001c2"
     },
     "java-springboot": {
       "source": "github/awesome-copilot",
